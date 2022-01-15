@@ -4,3 +4,6 @@
 
 import random
 from datetime import datetime
+
+def date_o_birth_gen(age):
+    pass
