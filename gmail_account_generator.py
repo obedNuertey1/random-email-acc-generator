@@ -6,4 +6,4 @@ import random
 from datetime import datetime
 
 def date_o_birth_gen(age):
-    pass
+    _month = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sept", "oct", "nov", "dec"]
