@@ -7,3 +7,4 @@ from datetime import datetime
 
 def date_o_birth_gen(age):
     _month = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sept", "oct", "nov", "dec"]
+    month_num = random.randint(1, len(_month))
