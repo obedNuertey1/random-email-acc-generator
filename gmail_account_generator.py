@@ -14,4 +14,4 @@ def date_o_birth_gen(age):
         "month_number": month_num,
         "year": int(datetime.today().year) - age
     }
-    
+    return date_o_birth
