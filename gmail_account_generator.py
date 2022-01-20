@@ -15,3 +15,6 @@ def date_o_birth_gen(age):
         "year": int(datetime.today().year) - age
     }
     return date_o_birth
+
+def acc_generator():
+    pass
