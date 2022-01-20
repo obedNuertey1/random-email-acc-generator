@@ -17,4 +17,4 @@ def date_o_birth_gen(age):
     return date_o_birth
 
 def acc_generator():
-    pass
+    a_t_1 = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','','','','','','','','','','']
