@@ -1,4 +1,4 @@
-# Email Accounts Dictionary Program
+# Random Email Account Generator
 
 ## Overview
 This Python program generates a dictionary containing email account details, including account names, passwords, and other attributes. It simulates the creation of multiple Google accounts with randomly generated information.
